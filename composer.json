@@ -1,5 +1,5 @@
 {
-    "name": "maba/dependency-injection-extra",
+    "name": "squeezely-maba/dependency-injection-extra",
     "keywords": ["di", "dependency injection", "compiler pass"],
     "license": "MIT",
     "authors": [
